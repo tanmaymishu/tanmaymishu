@@ -1,8 +1,3 @@
-<div align="center">
-<img src="https://tanmaydas.com/banner.png" align="center" style="width: 100%" />
-</div>  
-  
-
 ### <div align="center">I'm Tanmay, a full-stack software engineer 👨‍💻</div>  
   
 
