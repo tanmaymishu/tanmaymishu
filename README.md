@@ -7,10 +7,13 @@
 - 🌱 I’m currently learning Microservices with Kubernetes  
   
 
-- ❓ Ask me about anything related to Laravel, NodeJS, Vue, React and Go  
+- ❓ Ask me about anything related to Laravel, NodeJS, Vue, React and Go
   
 
-- ⚡ Fun fact: I use light theme over dark and do not consume caffeine  
+- ⚡ Fun fact: I use light theme over dark and do not consume caffeine 
+
+
+- ✍️ I use [Neovim](https://neovim.io/), btw
   
 
 <br/>  
