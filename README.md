@@ -1,7 +1,7 @@
 ### <div align="center">I'm Tanmay, a full-stack software engineer 👨‍💻</div>  
-  
 
-- 🔭 I’m currently leading the development of [Dokan eCommerce](https://dokan.co/cloud)  
+
+- 🔭 I’m currently developing [Echo App](https://echoapp.online) at [Revealize Inc](https://revealize.com)
   
 
 - 🌱 I’m currently learning Microservices with Kubernetes  
